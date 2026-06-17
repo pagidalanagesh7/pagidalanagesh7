@@ -1,4 +1,4 @@
-```markdown
+
 <h1 align="center">Hi 👋, I'm Pagidala Nageswara Rao</h1>
 <h3 align="center">🚀 Cloud & DevOps Engineer @ IBM</h3>
 
@@ -61,4 +61,3 @@ Passionate Cloud & DevOps Engineer with 4+ years of experience in building scala
 ---
 
 ⚡ **Automating Infrastructure | Building Reliable Platforms | Continuous Learning**
-```
