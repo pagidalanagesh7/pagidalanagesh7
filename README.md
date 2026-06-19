@@ -1,18 +1,109 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+<h1 align="center">Hi 👋🏻, I'm Pagidala Nageswara Rao</h1>
+
+<p align="center">DevOps Engineer | Cloud Enthusiast ☁️</p>
+<p align="center">Automating Infrastructure, CI/CD & Kubernetes 🚀</p>
+
+<p align="center">☁️ DevOps Engineer with hands-on experience in AWS, Kubernetes, Terraform & CI/CD</p>
+<p align="center">🚀 Passionate about Cloud Automation, Infrastructure as Code & GitOps</p>
+<p align="center">📊 Skilled in Monitoring, Observability & Platform Reliability</p>
+<p align="center">📝 Sharing DevOps, Kubernetes & Cloud content on Medium & LinkedIn</p>
+<p align="center">🌱 Currently exploring Cloud Native Technologies & Platform Engineering</p>
+<p align="center">
+<a href="https://www.linkedin.com/in/pagidala-nageswara-rao-78b940239/" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a>
+<a href="https://medium.com/@tejanag737" target="_blank">
+  <img alt="Medium" src="https://img.shields.io/badge/Medium-000?logo=medium&logoColor=white&style=for-the-badge" style="vertical-align:center" />
+</a>
+</p>
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/Pagidala Nageswara Rao](https://www.linkedin.com/in/pagidala-nageswara-rao-78b940239/)) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@tejanag737) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pagidala.nagesh77@gmail.com) 
+## Tech Stack 💻
 
-# 💻 Tech Stack:
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Rancher](https://img.shields.io/badge/rancher-%230075A8.svg?style=for-the-badge&logo=rancher&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username= pagidalanagesh7&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user= pagidalanagesh7&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username= pagidalanagesh7&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+#### ☁️ Cloud Platforms
+![AWS](https://img.shields.io/badge/AWS-000?style=for-the-badge&logo=amazonaws)
+![Amazon EC2](https://img.shields.io/badge/EC2-000?style=for-the-badge&logo=amazonec2)
+![Amazon S3](https://img.shields.io/badge/S3-000?style=for-the-badge&logo=amazons3)
+![Amazon EKS](https://img.shields.io/badge/EKS-000?style=for-the-badge&logo=amazoneks)
+![IAM](https://img.shields.io/badge/IAM-000?style=for-the-badge&logo=amazonaws)
+
+#### 🐳 Containerization & Orchestration
+![Docker](https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-000?style=for-the-badge&logo=kubernetes)
+![Helm](https://img.shields.io/badge/Helm-000?style=for-the-badge&logo=helm)
+![Rancher](https://img.shields.io/badge/Rancher-000?style=for-the-badge&logo=rancher)
+
+#### 🏗️ Infrastructure as Code
+![Terraform](https://img.shields.io/badge/Terraform-000?style=for-the-badge&logo=terraform)
+![Ansible](https://img.shields.io/badge/Ansible-000?style=for-the-badge&logo=ansible)
+
+#### 🚀 CI/CD & GitOps
+![Jenkins](https://img.shields.io/badge/Jenkins-000?style=for-the-badge&logo=jenkins)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-000?style=for-the-badge&logo=githubactions)
+![GitLab CI](https://img.shields.io/badge/GitLab%20CI-000?style=for-the-badge&logo=gitlab)
+![Argo CD](https://img.shields.io/badge/ArgoCD-000?style=for-the-badge&logo=argo)
+
+#### 📊 Monitoring & Observability
+![Prometheus](https://img.shields.io/badge/Prometheus-000?style=for-the-badge&logo=prometheus)
+![Grafana](https://img.shields.io/badge/Grafana-000?style=for-the-badge&logo=grafana)
+![CloudWatch](https://img.shields.io/badge/CloudWatch-000?style=for-the-badge&logo=amazoncloudwatch)
+
+#### 🔧 Scripting & Configuration
+![Bash](https://img.shields.io/badge/Bash-000?style=for-the-badge&logo=gnubash)
+![YAML](https://img.shields.io/badge/YAML-000?style=for-the-badge&logo=yaml)
+
+#### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql)
+![Redis](https://img.shields.io/badge/Redis-000?style=for-the-badge&logo=redis)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-000?style=for-the-badge&logo=amazondynamodb)
+
+#### 🌐 Networking
+![VPC](https://img.shields.io/badge/VPC-000?style=for-the-badge&logo=amazonaws)
+![DNS](https://img.shields.io/badge/DNS-000?style=for-the-badge&logo=icloud)
+![Nginx](https://img.shields.io/badge/Nginx-000?style=for-the-badge&logo=nginx)
+![Apache](https://img.shields.io/badge/Apache-000?style=for-the-badge&logo=apache)
+![Load%20Balancing](https://img.shields.io/badge/Load%20Balancing-000?style=for-the-badge)
+![Firewall](https://img.shields.io/badge/Firewall-000?style=for-the-badge)
+
+#### 💻 Operating Systems
+![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux)
+![UNIX](https://img.shields.io/badge/UNIX-000?style=for-the-badge)
+![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows)
+
+#### 🔍 Code Quality & Security
+![SonarQube](https://img.shields.io/badge/SonarQube-000?style=for-the-badge&logo=sonarqube)
+
+#### 🔀 Version Control
+![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)
+![GitLab](https://img.shields.io/badge/GitLab-000?style=for-the-badge&logo=gitlab)
+
+```java
+while (infrastructureRunning) {
+    automate();
+    monitor();
+    optimize();
+    scale();
+}
+// - Nagesh
+```
+
+
+
+## Current GitHub Stats 📊
+
+
+
+![Stats](https://github-readme-stats.vercel.app/api?username=pagidalanagesh7&show_icons=true&hide_border=false&theme=tokyonight&count_private=true&include_all_commits=true)
+
+
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pagidalanagesh7&show_icons=true&hide_border=false&theme=tokyonight&count_private=true&include_all_commits=true&layout=compact)
+
+
+### Thanks for Visiting my GitHub Profile!
 
 ---
-[![](https://komarev.com/ghpvc/?username= pagidalanagesh7&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="center"> <img src="https://github.com/pagidalanagesh7/pagidalanagesh7/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" /> </p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=pagidalanagesh7&style=for-the-badge" />
+</p>
