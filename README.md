@@ -3,22 +3,17 @@
 <h3 align="center">DevOps Engineer | Cloud Enthusiast ☁️ | Platform Engineering 🚀</h3>
 
 <p align="center">
-Automating Infrastructure • CI/CD • Kubernetes • Cloud Native
-</p>
-
-<p align="center">
-<a href="https://www.linkedin.com/in/pagidala-nageswara-rao-78b940239/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://medium.com/@tejanag737" target="_blank">
-<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
-</a>
-</p>
-
-<a href="pagidala.nagesh77@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+  <a href="https://www.linkedin.com/in/pagidala-nageswara-rao-78b940239" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  &nbsp;
+  <a href="https://medium.com/@tejanag737" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
+  </a>
+  &nbsp;
+  <a href="mailto:pagidala.nagesh77@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
 </p>
 
 ---
@@ -120,22 +115,28 @@ while (infrastructureRunning) {
 
 ---
 
-# 🔥 GitHub Streak
+# 📊 GitHub Statistics
 
 <p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pagidalanagesh7&theme=tokyonight"/>
+</p>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=pagidalanagesh7&theme=tokyonight&hide_border=true"/>
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pagidalanagesh7&theme=tokyonight" width="48%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pagidalanagesh7&theme=tokyonight" width="48%"/>
+</p>
 
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pagidalanagesh7&theme=tokyonight" width="48%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pagidalanagesh7&theme=tokyonight&utcOffset=5.5" width="48%"/>
 </p>
 
 ---
 
-# 🐍 Contribution Graph
+# 🐍 Contribution Snake
 
 <p align="center">
-
 <img src="https://github.com/pagidalanagesh7/pagidalanagesh7/blob/output/github-contribution-grid-snake-dark.svg"/>
-
 </p>
 
 ---
@@ -143,9 +144,7 @@ while (infrastructureRunning) {
 # 👀 Profile Views
 
 <p align="center">
-
 <img src="https://komarev.com/ghpvc/?username=pagidalanagesh7&style=for-the-badge"/>
-
 </p>
 
 ---
