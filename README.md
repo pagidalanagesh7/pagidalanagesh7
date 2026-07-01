@@ -3,7 +3,7 @@
 <h3 align="center">DevOps Engineer | Cloud Enthusiast ☁️ | Platform Engineering 🚀</h3>
 
 <p align="center">
-Automating Infrastructure • Building CI/CD Pipelines • Kubernetes • Cloud Native
+Automating Infrastructure • CI/CD • Kubernetes • Cloud Native
 </p>
 
 <p align="center">
@@ -14,28 +14,29 @@ Automating Infrastructure • Building CI/CD Pipelines • Kubernetes • Cloud 
 <a href="https://medium.com/@tejanag737" target="_blank">
 <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
 </a>
+</p>
 
-<a href="mailto:tejanag737@gmail.com">
+<a href="pagidala.nagesh77@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
 - ☁️ DevOps Engineer passionate about Cloud & Automation
-- 🚀 Hands-on experience with AWS, Kubernetes, Docker & Terraform
-- ⚙️ Building scalable CI/CD pipelines using Jenkins & GitHub Actions
-- 📊 Interested in Monitoring, Observability & Platform Reliability
+- 🚀 Hands-on experience with AWS, Docker, Kubernetes & Terraform
+- ⚙️ Experienced in CI/CD using Jenkins & GitHub Actions
+- 📊 Passionate about Monitoring, Observability & Platform Reliability
 - 🌱 Currently learning Platform Engineering & Cloud Native Technologies
-- ✍️ Sharing DevOps, Kubernetes, Linux & Docker content on LinkedIn, GitHub and Medium
+- ✍️ Sharing Linux, Docker, Kubernetes & DevOps content on GitHub, LinkedIn & Medium
 
 ---
 
 # 🛠️ Tech Stack
 
-### ☁️ Cloud
+## ☁️ Cloud
 
 ![AWS](https://img.shields.io/badge/AWS-000?style=for-the-badge&logo=amazonaws)
 ![EC2](https://img.shields.io/badge/EC2-000?style=for-the-badge&logo=amazonec2)
@@ -43,60 +44,60 @@ Automating Infrastructure • Building CI/CD Pipelines • Kubernetes • Cloud 
 ![EKS](https://img.shields.io/badge/EKS-000?style=for-the-badge&logo=amazoneks)
 ![IAM](https://img.shields.io/badge/IAM-000?style=for-the-badge&logo=amazonaws)
 
-### 🐳 Containers & Orchestration
+## 🐳 Containers & Orchestration
 
 ![Docker](https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-000?style=for-the-badge&logo=kubernetes)
 ![Helm](https://img.shields.io/badge/Helm-000?style=for-the-badge&logo=helm)
 ![Rancher](https://img.shields.io/badge/Rancher-000?style=for-the-badge&logo=rancher)
 
-### 🏗️ Infrastructure as Code
+## 🏗️ Infrastructure as Code
 
 ![Terraform](https://img.shields.io/badge/Terraform-000?style=for-the-badge&logo=terraform)
 ![Ansible](https://img.shields.io/badge/Ansible-000?style=for-the-badge&logo=ansible)
 
-### 🚀 CI/CD & GitOps
+## 🚀 CI/CD
 
 ![Jenkins](https://img.shields.io/badge/Jenkins-000?style=for-the-badge&logo=jenkins)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-000?style=for-the-badge&logo=githubactions)
 ![GitLab CI](https://img.shields.io/badge/GitLab%20CI-000?style=for-the-badge&logo=gitlab)
 ![ArgoCD](https://img.shields.io/badge/ArgoCD-000?style=for-the-badge&logo=argo)
 
-### 📊 Monitoring
+## 📊 Monitoring
 
 ![Prometheus](https://img.shields.io/badge/Prometheus-000?style=for-the-badge&logo=prometheus)
 ![Grafana](https://img.shields.io/badge/Grafana-000?style=for-the-badge&logo=grafana)
 ![CloudWatch](https://img.shields.io/badge/CloudWatch-000?style=for-the-badge&logo=amazoncloudwatch)
 
-### 💻 Scripting
+## 🔧 Scripting
 
 ![Bash](https://img.shields.io/badge/Bash-000?style=for-the-badge&logo=gnubash)
 ![YAML](https://img.shields.io/badge/YAML-000?style=for-the-badge&logo=yaml)
 
-### 🗄️ Databases
+## 🗄️ Databases
 
 ![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql)
 ![Redis](https://img.shields.io/badge/Redis-000?style=for-the-badge&logo=redis)
 ![DynamoDB](https://img.shields.io/badge/DynamoDB-000?style=for-the-badge&logo=amazondynamodb)
 
-### 🌐 Networking
+## 🌐 Networking
 
 ![VPC](https://img.shields.io/badge/VPC-000?style=for-the-badge&logo=amazonaws)
 ![Nginx](https://img.shields.io/badge/Nginx-000?style=for-the-badge&logo=nginx)
 ![Apache](https://img.shields.io/badge/Apache-000?style=for-the-badge&logo=apache)
 ![Firewall](https://img.shields.io/badge/Firewall-000?style=for-the-badge)
 
-### 💻 Operating Systems
+## 💻 Operating Systems
 
 ![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux)
 ![UNIX](https://img.shields.io/badge/UNIX-000?style=for-the-badge)
 ![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows)
 
-### 🔐 Code Quality
+## 🔒 Code Quality
 
 ![SonarQube](https://img.shields.io/badge/SonarQube-000?style=for-the-badge&logo=sonarqube)
 
-### 🔀 Version Control
+## 🔀 Version Control
 
 ![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)
@@ -104,7 +105,7 @@ Automating Infrastructure • Building CI/CD Pipelines • Kubernetes • Cloud 
 
 ---
 
-## 💡 Philosophy
+# 💡 Philosophy
 
 ```java
 while (infrastructureRunning) {
@@ -119,15 +120,7 @@ while (infrastructureRunning) {
 
 ---
 
-# 📊 GitHub Statistics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=pagidalanagesh7&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=pagidalanagesh7&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
+# 🔥 GitHub Streak
 
 <p align="center">
 
@@ -147,14 +140,16 @@ while (infrastructureRunning) {
 
 ---
 
+# 👀 Profile Views
+
 <p align="center">
 
 <img src="https://komarev.com/ghpvc/?username=pagidalanagesh7&style=for-the-badge"/>
 
 </p>
 
+---
+
 <h3 align="center">
-
 ⭐ Thanks for visiting my GitHub Profile! ⭐
-
 </h3>
